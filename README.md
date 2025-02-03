@@ -36,8 +36,6 @@
 ---
 
 ### 📌 My Projects  
-### 📌 My Projects
-
 1. 🌲 **[Forest Fire Detection Module](https://github.com/mercydeez/forest-fire-detection-module)**  
    - **Objective**: A machine learning-based web application that predicts forest fire risks based on environmental factors like temperature, oxygen levels, and humidity.  
    - **Technologies**: Python, Flask, Scikit-learn, HTML/CSS, JavaScript  
