@@ -36,15 +36,22 @@
 ---
 
 ### 📌 My Projects  
+### 📌 My Projects
+
 1. 🌲 **[Forest Fire Detection Module](https://github.com/mercydeez/forest-fire-detection-module)**  
-   - **Objective**: A machine learning-based web application that predicts forest fire risks based on environmental factors like temperature, oxygen levels, and humidity. It provides real-time predictions on whether the forest is at risk of fire, including the probability of the prediction.  
+   - **Objective**: A machine learning-based web application that predicts forest fire risks based on environmental factors like temperature, oxygen levels, and humidity.  
    - **Technologies**: Python, Flask, Scikit-learn, HTML/CSS, JavaScript  
    - **Outcome**: Successfully deployed a web app that predicts the likelihood of a forest fire based on real-time data. 🔥🌳
 
 2. 💳 **[UPI Transactions Analysis Dashboard](https://github.com/mercydeez/UPI_Dashboard_PowerBI)**  
    - **Objective**: A Power BI dashboard that analyzes UPI transaction trends, payment methods, and regional insights, providing data-driven insights into UPI growth.  
    - **Technologies**: Power BI, SQL, Excel  
-   - **Outcome**: Created an interactive dashboard that visualizes UPI transaction patterns and growth across different regions, providing actionable insights for business stakeholders. 📈💵
+   - **Outcome**: Created an interactive dashboard that visualizes UPI transaction patterns and growth across different regions. 📈💵
+
+3. 📱 **[Google Play Data Analysis](https://github.com/mercydeez/Google-Play-Analysis)**  
+   - **Objective**: Analyzes the Google Play Store dataset to uncover insights about app categories, installations, ratings, and other performance factors.  
+   - **Technologies**: Python, Jupyter Notebook, Pandas, Seaborn, Matplotlib  
+   - **Outcome**: Explored trends and visualized correlations between app metrics like ratings, reviews, and installs. 📊
 
 
 ---
