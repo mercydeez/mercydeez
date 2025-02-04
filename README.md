@@ -59,7 +59,7 @@ Want a quick break? Play a Snake game right here! 🐍
 **LinkedIn**: [atharva-soundankar](https://www.linkedin.com/in/atharva-soundankar/) 🔗  
 **Twitter**: [@Atharva3895](https://x.com/Atharva3895) 🐦  
 **Email**: [atharva3895@gmail.com](mailto:atharva3895@gmail.com) 📧  
-**Portfolio**: [asoundankar.netlify.app](https://atharva-soundankar-portfolio.netlify.app/) 🌐
+**Portfolio**: [asoundankar.netlify.app](https://asoundankar.netlify.app/) 🌐
 
 ---
 
