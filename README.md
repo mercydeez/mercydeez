@@ -1,3 +1,8 @@
+<!-- Snake game start -->
+<a href="https://platane.github.io/snk/">
+  <img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
+</a>
+<!-- Snake game end -->
 <h1 align="center">Hey there! 👋 I'm Atharva Soundankar</h1>
 <h3 align="center">📊 Data Analyst | Aspiring Data Scientist | Data Enthusiast</h3>
 
