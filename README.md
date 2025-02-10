@@ -25,11 +25,8 @@
 #### 🧠 **Machine Learning & Data Science**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🚀 Web Apps & Interactivity  
-- **[Streamlit](https://streamlit.io/)** – An open-source app framework for Machine Learning and Data Science, which allows you to build and deploy interactive web apps with ease.
-- **[Flask](https://flask.palletsprojects.com/)** – A lightweight Python web framework for building simple and scalable web apps.
-- **[Netlify](https://www.netlify.com/)** – A platform for building and deploying static websites and serverless functions, optimized for modern web development workflows.
-
+#### 🚀 **Web Apps & Interactivity**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
