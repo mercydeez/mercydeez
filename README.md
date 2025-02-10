@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! 👋 I'm Atharva Soundankar</h1>
-<h3 align="center">📊 Data Analyst | Aspiring Data Scientist | Data Enthusiast</h3>
+# Hey there! 👋 I'm Atharva Soundankar
+### 📊 Data Analyst | Aspiring Data Scientist | Data Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mercydeez&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,7 +11,7 @@
 ### 💡 About Me  
 💼 Passionate **Data Analyst** with a keen interest in **Data Science**.  
 🔍 Expertise in analyzing data to provide actionable insights, helping businesses make data-driven decisions.  
-📚 Currently diving into **Machine Learning**, **Python for Data Science**, and **Big Data technologies**.
+📚 Currently diving into **Machine Learning**, **Python for Data Science**, **Big Data technologies**, and **Streamlit**.
 
 ---
 
@@ -24,6 +24,9 @@
 
 #### 🧠 **Machine Learning & Data Science**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### 🚀 **Web Apps & Interactivity**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
