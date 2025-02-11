@@ -66,21 +66,20 @@
 
 ---
 
-
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharva-soundankar/" target="_blank">
+  <a href="https://www.linkedin.com/in/atharva-soundankar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/Atharva3895" target="_blank">
+  <a href="https://x.com/Atharva3895" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="mailto:atharva3895@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://asoundankar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-20C997?style=for-the-badge&logo=netlify&logoColor=white">
+  <a href="https://asoundankar.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 
