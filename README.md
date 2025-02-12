@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4CAF50&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Data+Analysis+%7C+ML+%7C+Power+BI+%7C+Python+%7C+Gen+AI;Let's+explore+data+and+innovate+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4CAF50&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Data+Analysis+%7C+ML+%7C+Power+BI+%7C+Python+%7C+Gen+AI;Let's+explore+data+and+innovate+together!" />
 </p>
+
 
 
 
