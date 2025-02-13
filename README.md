@@ -14,7 +14,7 @@
 
 ---
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Wave.svg" alt="wave separator">
+  <img src="https://raw.githubusercontent.com/anupavanm/animated-waves/master/wave.svg" alt="Wave Separator">
 </p>
 
 
