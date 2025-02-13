@@ -14,8 +14,9 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anup-a/svg-wave-separator/main/wave.svg" alt="wave separator">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Wave.svg" alt="wave separator">
 </p>
+
 
 ## 📈 GitHub Stats  
 <p align="center">
