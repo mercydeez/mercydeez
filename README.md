@@ -14,7 +14,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/mercydeez/mercydeez/main/wave.svg" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82956523/115120761-28a80b80-9fc4-11eb-8c16-9e624e9b6e7c.png" alt="wave separator">
+</p>
 
 ## 📈 GitHub Stats  
 <p align="center">
