@@ -67,5 +67,3 @@
 
 
 ---
-
-🔥 **Let's analyze data, build models, and unlock insights together!** 🚀
