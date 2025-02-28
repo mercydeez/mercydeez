@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
+---
+
 <h1 align="center">Atharva Soundankar</h1>
 <p align="center">
   <strong>📊 Data Analyst | Aspiring Data Scientist | Data Enthusiast</strong>
