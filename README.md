@@ -4,7 +4,8 @@
 
 ---
 
-<h1 align="center">Atharva Soundankar</h1>
+# <p align="center">Atharva Soundankar</p>
+
 <p align="center">
   <strong>📊 Data Analyst | Aspiring Data Scientist | Data Enthusiast</strong>
 </p>
@@ -46,11 +47,25 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mercydeez&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
+</p>
+
+---
+
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mercydeez&theme=tokyonight" alt="streak stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=mercydeez&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
+
+---
+
+## ✍️ Latest Blog  
+🚀 **[Chhatrapati Shivaji Maharaj – The Ultimate Strategist: A Lesson for Data Science](https://medium.com/@atharva3895/chhatrapati-shivaji-maharaj-the-ultimate-strategist-a-lesson-for-data-science-5ddcc18d18de)**  
+
+📖 Read my latest article where I draw parallels between the strategic brilliance of Chhatrapati Shivaji Maharaj and **Data Science methodologies**!  
 
 ---
 
@@ -70,6 +85,3 @@
     <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
-
-
----
