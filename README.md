@@ -47,10 +47,12 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mercydeez&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mercydeez&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies">
 </p>
+
 
 ---
 
