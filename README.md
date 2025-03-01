@@ -42,6 +42,9 @@
 ### 🚀 **Web Apps & Interactivity**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+### 📦 **Containerization**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### 📚 **Version Control & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -52,7 +55,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mercydeez&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies">
 </p>
-
 
 ---
 
