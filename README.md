@@ -32,11 +32,6 @@
 ## 📊 GitHub Activity  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mercydeez&theme=react-dark)
 
----
-
-## 🌍 Contribution Map  
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=mercydeez&theme=tokyonight)
-
 
 ---
 
