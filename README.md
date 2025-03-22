@@ -4,7 +4,7 @@
 
 ---
 
-# <p align="center">Atharva Soundankar</p>
+# <p align="center">Hi All👋 I'm Atharva Soundankar</p>
 
 <p align="center">
   <strong>📊 Data Analyst | Aspiring Data Scientist | Big Data Learner</strong>
