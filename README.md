@@ -30,8 +30,8 @@
 ---
 
 ## 🛠 Tech Stack  
-### 📊 Data Analysis & Big Data  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black"> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"> <img src="https://img.shields.io/badge/Apache%20HBase-EE0000?style=for-the-badge&logo=apachehbase&logoColor=white"> <img src="https://img.shields.io/badge/YARN-009639?style=for-the-badge&logo=yarn&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"> <img src="https://img.shields.io/badge/Delta%20Lake-1D74BA?style=for-the-badge&logo=delta&logoColor=white">
+
 
 ## 📊 **Business Intelligence & Visualization**  
 <img src="https://img.shields.io/badge/Power%20BI-FFC107?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white">  
