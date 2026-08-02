@@ -23,9 +23,9 @@
 
 ## About Me
 
-I'm an AI builder based in Dubai, currently finishing a Master's in AI in Business at SP Jain (2025–2027). I work mostly across the Claude, OpenAI, and LangGraph ecosystem, on retrieval, agents, and workflow automation, and I put as much time into the product and deployment side as I do into the model side.
+I'm an AI Engineer based in Dubai, currently finishing a Master's in AI in Business at SP Jain (2025–2027). I work mostly across the Claude, OpenAI, and LangGraph ecosystem, on retrieval, agents, and workflow automation, and I put as much time into the product and deployment side as I do into the model side.
 
-Before this I was a Junior Data Analyst at a D2C brand, building Power BI dashboards and reusable SQL/DAX pipelines, and a Data Science intern building classification models with scikit-learn. I'm AWS Certified in AI Practitioner, and I hold Kaggle Dataset Expert status, ranked top 10% globally.
+Before this I was a Junior Data Analyst building Power BI dashboards and reusable SQL/DAX pipelines, and a Data Science intern building classification models with scikit-learn. I'm AWS Certified in AI Practitioner, and I hold Kaggle Dataset Expert status, ranked top 10% globally.
 
 **Current Focus:**
 - Retrieval-augmented generation, agentic workflows, and prompt engineering across the Claude and OpenAI APIs
