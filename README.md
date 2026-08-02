@@ -7,7 +7,7 @@
 # <p align="center">Atharva Soundankar</p>
 
 <p align="center">
-  <strong>AI Builder | LLMs, Agents & AI Growth Tooling</strong>
+  <strong>AI Engineer | LLMs, Agents & AI Growth Tooling</strong>
 </p>
 
 <p align="center">
