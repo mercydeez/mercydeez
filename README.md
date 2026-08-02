@@ -7,7 +7,7 @@
 # <p align="center">Atharva Soundankar</p>
 
 <p align="center">
-  <strong>AI Engineer | Machine Learning Practitioner | Data Scientist</strong>
+  <strong>AI Builder | LLMs, Agents & AI Growth Tooling</strong>
 </p>
 
 <p align="center">
@@ -16,44 +16,41 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4CAF50&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Big+Data+%7C+ML+%7C+Power+BI+%7C+Python+%7C+Gen+AI;Let's+explore+data+and+innovate+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4CAF50&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;LLMs+%7C+Agents+%7C+RAG+%7C+Automation+%7C+Gen+AI;Let's+explore+data+and+innovate+together!" />
 </p>
 
 ---
 
 ## About Me
 
-Master's student in AI in Business (2025–2027) with strong foundations in Machine Learning and Data Science. Currently focused on building expertise in Big Data technologies and cloud-based data engineering to deliver scalable, real-world AI solutions.
+I'm an AI builder based in Dubai, currently finishing a Master's in AI in Business at SP Jain (2025–2027). I work mostly across the Claude, OpenAI, and LangGraph ecosystem, on retrieval, agents, and workflow automation, and I put as much time into the product and deployment side as I do into the model side.
+
+Before this I was a Junior Data Analyst at a D2C brand, building Power BI dashboards and reusable SQL/DAX pipelines, and a Data Science intern building classification models with scikit-learn. I'm AWS Certified in AI Practitioner, and I hold Kaggle Dataset Expert status, ranked top 10% globally.
 
 **Current Focus:**
-- Building proficiency in Big Data ecosystems: Hadoop, Spark, Kafka, and Airflow for ETL workflows, data ingestion, and transformation
-- Developing cloud data engineering skills on Azure and GCP for scalable deployment and management
-- Applying machine learning and analytics to solve business-oriented challenges
+- Retrieval-augmented generation, agentic workflows, and prompt engineering across the Claude and OpenAI APIs
+- Workflow automation with n8n and LangGraph
+- Cloud data engineering and deployment on AWS, Azure, and Databricks
 
 ---
 
 ## Technical Skills
 
-### Programming & Data Analysis
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
 
-### Big Data & Stream Processing
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"> <img src="https://img.shields.io/badge/Delta%20Lake-1D74BA?style=for-the-badge&logo=delta&logoColor=white"> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
+### LLMs & AI Tooling
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/Pinecone-0A0A23?style=for-the-badge"> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 
-### Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Backend & Data
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
-### Business Intelligence & Visualization
-<img src="https://img.shields.io/badge/Power%20BI-FFC107?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white">
-
-### Data Storage & Cloud Platforms
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Snowflake-00A9E0?style=for-the-badge&logo=snowflake&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-
-### Orchestration & Containerization
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+### Cloud & DevOps
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white"> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
 
 ### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
 ---
 
 ## Featured Writing
